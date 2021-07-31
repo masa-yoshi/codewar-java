@@ -1,4 +1,4 @@
-package com.masayoshi;
+// package com.masayoshi;
 
 //Best practice
 public class HumanReadableTime {
